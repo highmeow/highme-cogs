@@ -9,7 +9,7 @@ This is my repository of cogs I've remixed while learning Python. ❤
 
 ```
 [p]repo add highme-cogs https://github.com/highmeow/highme-cogs
-[p]cog install highme-cogs <cog>
+[p]cog install highme-cogs <cogname>
 ```
 
 ## 🗄 My repository.
