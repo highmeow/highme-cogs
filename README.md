@@ -1,6 +1,6 @@
 ## 👽 HighMe's cogs for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot) V3.
 
-<img src="https://byts.no/index.php/apps/files_sharing/ajax/publicpreview.php?x=2560&y=979&a=true&file=highme-banner.png&t=lN9B0sFR3tH90Cp&scalingup=0">
+<img src="https://highme.no/highme-banner.png">
 
 This is my repository of cogs I've remixed while learning Python. ❤ 
 [Report issues](https://github.com/highmeow/highme-cogs/issues)
